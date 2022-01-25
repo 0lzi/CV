@@ -63,4 +63,4 @@ notes - mobile phone technical support, laptop/computer support, developed tool 
 - Health and Safety L1 + CSCS Laborer 
 - IOSH Managing safety 
 - Bsc Hons Computer Games Technology - LJMU - 2008-2011
-- 
+- LPIC-1 (In Progress)
