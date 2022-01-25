@@ -43,3 +43,6 @@ notes
 # Qualification
 
 - DCCA - [Data Center Certified Associate](https://www.schneideruniversities.com/catalog/view/course/id/536/title/Schneider%20Electric%20University%20Data%20Center%20Certified%20Associate%20Exam)
+- IPAF
+- Health and Safety L1 + CSCS Laborer 
+- IOSH Managing safety 
