@@ -19,13 +19,13 @@ notes
 
 
 *Projects*
-- [ICON Studio & Office](CV/Projects/ICON-Studio-Office.md)
-- [THG Carpark](CV/Projects/THG-Carpark.md)
-- [ICON 3 & 4](CV/Projects/ICON-3-4.md)
+- [ICON Studio & Office](/CV/Projects/ICON-Studio-Office.md)
+- [THG Carpark](/CV/Projects/THG-Carpark.md)
+- [ICON 3 & 4](/CV/Projects/ICON-3-4.md)
 - [Hangar 7 Portugal](CV/Projects/Hangar-7-Portugal.md)
-- [Media City](CV/Projects/Media-City.md)
-- [4M & Voyager](CV/Projects/4M-Voyager.md)
-- [Poland Warehouse](CV/Projects/Poland-Warehouse.md)
+- [Media City](/CV/Projects/Media-City.md)
+- [4M & Voyager](/CV/Projects/4M-Voyager.md)
+- [Poland Warehouse](/CV/Projects/Poland-Warehouse.md)
 
 ### Warehouse IT
 
