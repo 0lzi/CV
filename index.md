@@ -13,9 +13,9 @@
 
 ### DataCenter Engineer/IT Infrastructure project engineer
 
-*Roles*
+*Role*
 
-notes
+notes - requirement gathering, data markup , construction drawings, RIBA 1-6, contractor co-ordination, snagging, performance specifications, server room design , AC, Power, Data calculations, patch schedules, physical infrastructure. 
 
 
 *Projects*
@@ -29,15 +29,23 @@ notes
 
 ### Warehouse IT
 
-*Roles*
+*Role*
+
+notes - MDM device management , IT support Level 1-2, LDAP, Windows servers 2008-2012, Active Directory, VDI, DHCP scopes, team lead, hardware + software, lable printers, laptop builds, new starters, PO's + Quotes, COLOS, PEAK planning, 
 
 *Projects*
+
+- SOTI MDM 
+- COLOS Label Server
 
 
 ## CPW - Carphone Warehouse (2021-2015)
 
-*Roles*
+*Role*
+Geek Swuad Agent
 
+notes - mobile phone technical support, laptop/computer support, developed tool to aid DPA/backup removal C# , sales, pride delivering best service, under promise over deliver.
+ 
 *Responsibilities*
 
 # Qualification
@@ -46,3 +54,5 @@ notes
 - IPAF
 - Health and Safety L1 + CSCS Laborer 
 - IOSH Managing safety 
+- Bsc Hons Computer Games Technology - LJMU
+- 
