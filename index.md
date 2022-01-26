@@ -28,10 +28,10 @@ notes - requirement gathering, data markup , construction drawings, RIBA 1-6, co
 - [4M & Voyager](Projects/4M-Voyager.md)
 - [Poland Warehouse](Projects/Poland-Warehouse.md)
 
-### Warehouse IT
+### Warehouse IT 
 
 *Role*
-My Main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a 1 Million sq. ft. semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the work flow.
+My Main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a ~685,500 sq.ft semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the work flow.
 
 During my time as a Warehouse IT engineer, I stepped into a team leader role while our manager was deployed to another department. This involved managing our team’s workload, planning and deploying for production site, as well as handling BAU requests and escalations. During this period out of hours work was vital as the warehouse went 24/7, I had to manage the on-call rota and work outside of contracted hours to ensure up keep of operations.
 
