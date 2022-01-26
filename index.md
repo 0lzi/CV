@@ -60,9 +60,10 @@ notes - mobile phone technical support, laptop/computer support, developed tool 
 
 # Qualification
 
-- DCCA - [Data Center Certified Associate](https://www.schneideruniversities.com/catalog/view/course/id/536/title/Schneider%20Electric%20University%20Data%20Center%20Certified%20Associate%20Exam)
-- IPAF
-- Health and Safety L1 + CSCS Laborer 
-- IOSH Managing safety 
-- Bsc Hons Computer Games Technology - LJMU - 2008-2011
+- [DCCA](Qualification/DCCA.pdf) - [Data Center Certified Associate](https://www.schneideruniversities.com/catalog/view/course/id/536/title/Schneider%20Electric%20University%20Data%20Center%20Certified%20Associate%20Exam)
+- [IPAF](Qualification/Oliver%20Kelly%20-%20IPAF.pdf)
+- [Health and Safety L1]() 
+- [CITB CSCS Laborer]() 
+- [IOSH Managing safety](Qualification/Oliver%20Kelly.pdf) 
+- [Bsc Hons Computer Games Technology - LJMU - 2008-2011]()
 - LPIC-1 (In Progress)
