@@ -22,6 +22,7 @@ notes - requirement gathering, data markup , construction drawings, RIBA 1-6, co
 - [ICON Studio & Office](Projects/ICON-Studio-Office.md)
 - [THG Carpark](Projects/THG-Carpark.md)
 - [ICON 3 & 4](Projects/ICON-3-4.md)
+- [DC Refresh 1&2](Projects/DC-Refresh.md)
 - [Hangar 7 Portugal](Projects/Hangar-7-Portugal.md)
 - [Media City](Projects/Media-City.md)
 - [4M & Voyager](Projects/4M-Voyager.md)
