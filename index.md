@@ -11,7 +11,7 @@
 
 ## THG - The Hut Group ~ 6 years (2015-Present)
 
-### DataCenter Engineer/IT Infrastructure project engineer
+### DataCenter Engineer/IT Infrastructure project engineer (2018-Present)
 
 *Role*
 
@@ -28,7 +28,7 @@ notes - requirement gathering, data markup , construction drawings, RIBA 1-6, co
 - [4M & Voyager](Projects/4M-Voyager.md)
 - [Poland Warehouse](Projects/Poland-Warehouse.md)
 
-### Warehouse IT 
+### Warehouse IT (2015-2018)
 
 *Role*
 My Main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a ~685,500 sq.ft semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the work flow.
