@@ -6,6 +6,10 @@ image by Webgray from placenorthwest.co.uk
 
 ## About
 
+AREA
+Icon Studios: 160,000 SQ.FT. 
+Icon Offices: 104,000 SQ.FT.
+
 # Roles
 
 # Dificulties
@@ -13,3 +17,6 @@ image by Webgray from placenorthwest.co.uk
 # Achievments
 
 [Home](../index.md)
+
+###### Links
+[Visuals by Penson](https://penson.co/en/works/thg-icon-studios-offices)
