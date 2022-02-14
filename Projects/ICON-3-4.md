@@ -13,7 +13,7 @@ image by reachtimelapse.co.uk
 
 IT lead responsible designing and installation. 
 
-# Dificulties
+# Difficulties
 
 - Condensed timelines
 - Error in network cabinet sizing
@@ -21,7 +21,7 @@ IT lead responsible designing and installation.
 - Sectional completion
 
 
-# Achievments
+# Achievements
 
 Delivered and stuck to delivery timline.
 
