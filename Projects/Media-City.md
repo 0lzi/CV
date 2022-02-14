@@ -11,12 +11,12 @@ Office space for approx ~200 employees from Tech
 
 I was junior engineer on this project. Main role was to support Infrastructure Lead engineer in design and delivery of both sites.
 
-# Dificulties
+# Difficulties
 
 - Installation around construction
 - 14 week fit out programme 
 
-# Achievments
+# Achievements
 
 
 
