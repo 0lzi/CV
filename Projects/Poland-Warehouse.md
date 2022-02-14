@@ -13,10 +13,10 @@ image by (Wikipedia.org) (CC)
 
 I was junior engineer on this project. Main role was to support Infrastructure Lead engineer in design and delivery of both sites. 
 
-# Dificulties
+# Difficulties
 
 - Language barrier
 
-# Achievments
+# Achievements
 
 [Home](../index.md)
