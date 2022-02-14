@@ -22,6 +22,8 @@ Main role was design for IT & Data and delivery of installation of IT equipment.
 
 # Achievments
 
+Successfully delivered IT infrastructure within deadline.
+
 [Home](../index.md)
 
 ###### Links
