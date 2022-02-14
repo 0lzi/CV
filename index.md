@@ -9,21 +9,25 @@ Email: 0lzi@pm.me
 
 # About Me
 
-I’m a father, husband & technology enthusiast with a keen interest in renewable energy, solar and battery/storage. I also have a passion for powerlifting and strength training among other things including self-hosting infrastructure, blogging, bonsai, gamer and Linux and Opensource advocate.
+I’m a Father, Husband & technology enthusiast with a keen interest in renewable energy, solar and battery/storage. I also have a passion for powerlifting and strength training amongst other things including self-hosting infrastructure, blogging, bonsai, gaming and Linux and Opensource advocate.
 
-I am driven to constantly trying to improve and to be a better version of myself, I enjoy reading and learning new things, I always want to know how things work and have a keen attention to detail.
+I am driven to constantly improve and to be a better version of myself, I enjoy reading and learning new things, I always want to know how things work and have a keen attention to detail.
 
-## Strenghts
+## Strengths
 
-- Attention to detail
 - Broad understanding of technologies
 - Teamwork
 - Logical thinker
 
 ## Weaknesses
 
-- Time management
-- Asking for help
+- Basic knowledge of cloud infrastructure
+
+With a plan to do online course on Azure, AWS or GCP
+
+- Moderate knowledge of Linux
+
+With a plan to complete LPIC-1
 
 # Experience
 
@@ -35,7 +39,7 @@ I am driven to constantly trying to improve and to be a better version of myself
 
 My main role as Datacentre Engineer is to maintain the DCIM of our Datacentre, complete regular backup tape swaps, install network and server equipment and do regular PCI Wireless audits. This accounts for about 10% of the role. The BAU side of being a datacentre engineer is to monitor all site UPS/PDU infrastructure as well as local data cabling and to support the local facility with additional data where required along with improvements and documentation.
 
-The major portion of the role has evolved to include a large portion of construction projects and being the IT Lead for them. The largest project I have been involved in has been the latest THG ICON Studios and Office space, which is part of THG's $1b development around Manchester Airport which is set to bring in 10,000 employees. My specific involvement was to work with M&E contractors to assist in CAT A design works for ducting, Containment and Power. Then to work closely with M&E contractors and internal THG teams for CAT B design works and requirement gathering as well as co-ordinating fit out, testing and IT infrastructure
+The major portion of the role has evolved to include a large percentage of construction projects and being the IT Lead for them. The largest project I have been involved in has been the latest THG ICON Studios and Office space, which is part of THG's $1b development around Manchester Airport which is set to bring in 10,000 employees. My specific involvement was to work with M&E contractors to assist in CAT A design works for ducting, Containment and Power. Then to work closely with M&E contractors and internal THG teams for CAT B design works and requirement gathering as well as co-ordinating fit out, testing and IT infrastructure
 
 The main design elements include:
 - Designing Server & Comms rooms
