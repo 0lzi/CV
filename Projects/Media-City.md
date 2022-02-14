@@ -9,7 +9,7 @@ Office space for approx ~200 employees from Tech
 
 # Roles
 
-Junior Project Engineer, supporting lead engineer in design and installation.
+I was junior engineer on this project. Main role was to support Infrastructure Lead engineer in design and delivery of both sites.
 
 # Dificulties
 
