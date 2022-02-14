@@ -5,11 +5,20 @@ Image by Penson
 
 ## About
 
+Office space for approx ~200 employees from Tech
+
 # Roles
+
+Junior Project Engineer, supporting lead engineer in design and installation.
 
 # Dificulties
 
+- Installation around construction
+- 14 week fit out programme 
+
 # Achievments
+
+
 
 [Home](../index.md)
 
