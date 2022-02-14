@@ -15,7 +15,7 @@ Fitout - This was my first solo project which was also my first international pr
 
 Delapse - The studio building tenancy was up and we had to plan the delapse, my role was to pass assets and organise strip out of IT kit for delivery
 
-# Dificulties
+# Difficulties
 
 - Language barrier
 - Difference in cabling standards
@@ -23,7 +23,7 @@ Delapse - The studio building tenancy was up and we had to plan the delapse, my 
 - Airline strike
     - This took 1 days away from installation & Testing
 
-# Achievments
+# Achievements
 
 Installed and commissioned within 2 days 
 
