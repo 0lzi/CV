@@ -16,11 +16,11 @@ image from Google Maps
 
 This was my first project when I first joined the Infrastructure project team, I was junior engineer on this project. Main role was to support Infrastructure Lead engineer in design and delivery of both sites.
 
-# Dificulties
+# Difficulties
 
 - First construction project
 
-# Achievments
+# Achievements
 
 Installed first full comms room un-aided by lead engineer.
 
