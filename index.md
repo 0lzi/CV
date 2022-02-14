@@ -3,9 +3,21 @@
 
 # About Me
 
+I’m a father, husband & technology enthusiast with a keen interest in renewable energy, solar and battery/storage. I also have a passion for powerlifting and strength training among other things including self-hosting infrastructure, blogging, bonsai, gamer and Linux and Opensource advocate.
+
+I am driven to constantly trying to improve and to be a better version of myself, I enjoy reading and learning new things, I always want to know how things work and have a keen attention to detail.
+
 ## Strenghts
 
+- Attention to detail
+- Broad understanding of technologies
+- Teamwork
+- Logical thinker
+
 ## Weaknesses
+
+- Time management
+- Asking for help
 
 # Experience
 
@@ -15,7 +27,22 @@
 
 *Role*
 
-notes - requirement gathering, data markup , construction drawings, RIBA 1-6, contractor co-ordination, snagging, performance specifications, server room design , AC, Power, Data calculations, patch schedules, physical infrastructure, Cisco IOS, Meraki + Wireless
+My main role as Datacentre Engineer is to maintain the DCIM of our Datacentre, complete regular backup tape swaps, install network and server equipment and do regular PCI Wireless audits. This accounts for about 10% of the role. The BAU side of being a datacentre engineer is to monitor all site UPS/PDU infrastructure as well as local data cabling and to support the local facility with additional data where required along with improvements and documentation.
+
+The major portion of the role has evolved to include a large portion of construction projects and being the IT Lead for them. The largest project I have been involved in has been the latest THG ICON Studios and Office space, which is part of THG's $1b development around Manchester Airport which is set to bring in 10,000 employees. My specific involvement was to work with M&E contractors to assist in CAT A design works for ducting, Containment and Power. Then to work closely with M&E contractors and internal THG teams for CAT B design works and requirement gathering as well as co-ordinating fit out, testing and IT infrastructure
+
+The main design elements include:
+- Designing Server & Comms rooms
+  - Power, Lighting & Construction
+- Data & Voice design
+- Wireless design
+- UPS and Cooling design
+- Physical network layout
+- Patch schedules
+- Fibre Schematics
+- IT Specifications of passive infrastructure
+
+With the construction projects we work with RIBA stages 1-6, we work closely with the projects team and contractors, there is a large element of contractor co-ordination and design workshops to ensure our requirements and specifications are met. Snagging is a large part of the construction phase to ensure the specification is being met and best practices are being followed as per specification.
 
 
 *Projects*
@@ -32,12 +59,12 @@ notes - requirement gathering, data markup , construction drawings, RIBA 1-6, co
 
 *Role*
 
-My Main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a ~685,500 sq.ft semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the work flow.
+My main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a ~685,500 sq.ft semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the work flow.
 
 During my time as a Warehouse IT engineer, I stepped into a team leader role while our manager was deployed to another department. This involved managing our team’s workload, planning and deploying for production site, as well as handling BAU requests and escalations. During this period out of hours work was vital as the warehouse went 24/7, I had to manage the on-call rota and work outside of contracted hours to ensure up keep of operations.
 
 
-notes - MDM device management , IT support Level 1-2, LDAP, Windows servers 2008-2012, Active Directory, VDI, DHCP scopes, team lead, hardware + software, lable printers, laptop builds, new starters, PO's + Quotes, COLOS, PEAK planning, 
+notes - MDM device management , IT support Level 1-2, LDAP, Windows servers 2008-2012, Active Directory, VDI, DHCP scopes, team lead, hardware + software, label printers, laptop builds, new starters, PO's + Quotes, COLOS, PEAK planning, 
 
 *Projects*
 
@@ -52,10 +79,6 @@ notes - MDM device management , IT support Level 1-2, LDAP, Windows servers 2008
 My role as a Counter Intelligence Agent (CIA) is to be the front line of technical support for Geek Squad within Carphone Warehouse. The main duties are to provide technical support and assistance to clients with their technology, be it mobile, tablet or desktop. Work as part of a team and to aid training of colleagues of the latest and greatest in mobile technology to provide them with the key selling points of new handsets to be able to reach our target as a store. Geek Squad pride themselves on offering a premium service and the mission isn't complete until the client is happy.
 Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers, set up home networks, diagnosed and repaired virus ridden computers as well as teaching clients to use and understand their devices.
 
-
-
-
-notes - mobile phone technical support, laptop/computer support, developed tool to aid DPA/backup removal C# , sales, pride delivering best service, under promise over deliver.
  
 *Responsibilities*
 
@@ -64,7 +87,7 @@ notes - mobile phone technical support, laptop/computer support, developed tool 
 - [DCCA](Qualification/DCCA.pdf) - [Data Center Certified Associate](https://www.schneideruniversities.com/catalog/view/course/id/536/title/Schneider%20Electric%20University%20Data%20Center%20Certified%20Associate%20Exam)
 - [IPAF](Qualification/Oliver%20Kelly%20-%20IPAF.pdf)
 - [Health and Safety L1](Qualification/OliverKelly-H&SL1.pdf) 
-- [CITB CSCS Laborer]() 
+- [CITB CSCS Labourer]() 
 - [IOSH Managing safety](Qualification/Oliver%20Kelly.pdf) 
 - [Bsc Hons Computer Games Technology - LJMU - 2008-2011]()
 - LPIC-1 (In Progress)
