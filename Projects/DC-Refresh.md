@@ -1,13 +1,24 @@
 # DC Refresh (2019) + v2 (2021/2)
 
-![image](https://imageurlhere.com)
+![image](https://cdn.pixabay.com/photo/2016/05/06/17/55/server-room-1376349_960_720.jpg)
+
+Image by [pixabay](pixabay.com) (CC)
 
 ## About
 
+Expansion of datacentre infrastructure to keep up with business demand, this has involved additional rack spaces, decommissioning of retired equipment, balancing power within the racks, and deploying to new racks / rooms.
+
 # Roles
+
+Assist in design and installation of new switches, servers, firewalls, fibre and copper.
 
 # Dificulties
 
+- Installation works carried out Out of Hours to not impact day to day operations.
+- Complex patching schedule desing 
+
 # Achievments
+
+Learned about power commit and power balancing in racks/pdus
 
 [Home](../index.md)
