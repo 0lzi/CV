@@ -1,5 +1,7 @@
 # Oliver Kelly
-0lzi@pm.me 
+web: [CV](https://0lzi.github.io/CV/)
+
+email: 0lzi@pm.me 
 
 # About Me
 
