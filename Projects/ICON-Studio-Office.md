@@ -16,11 +16,11 @@ Icon Offices: 104,000 SQ.FT.
 
 Main role was design for IT & Data and delivery of installation of IT equipment.
 
-# Dificulties
+# Difficulties
 
 - Largest scale and most complex project I have ever worked on and managed.
 
-# Achievments
+# Achievements
 
 Successfully delivered IT infrastructure within deadline.
 
