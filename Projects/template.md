@@ -8,8 +8,8 @@ Image by (website.com) (C)/(CC)
 
 # Roles
 
-# Dificulties
+# Difficulties
 
-# Achievments
+# Achievements
 
 [Home](../index.md)
