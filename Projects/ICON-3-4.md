@@ -11,9 +11,19 @@ image by reachtimelapse.co.uk
 
 # Roles
 
+IT lead responsible designing and installation. 
+
 # Dificulties
 
+- Condensed timelines
+- Error in network cabinet sizing
+- Multiple design changes
+- Sectional completion
+
+
 # Achievments
+
+Delivered and stuck to delivery timline.
 
 [Home](../index.md)
 
