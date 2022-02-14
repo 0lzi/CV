@@ -12,12 +12,12 @@ Expansion of datacentre infrastructure to keep up with business demand, this has
 
 Assist in design and installation of new switches, servers, firewalls, fibre and copper.
 
-# Dificulties
+# Difficulties
 
 - Installation works carried out Out of Hours to not impact day to day operations.
 - Complex patching schedule desing 
 
-# Achievments
+# Achievements
 
 Learned about power commit and power balancing in racks/pdus
 
