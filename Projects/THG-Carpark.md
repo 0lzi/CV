@@ -13,11 +13,11 @@ Image by (pixabay.com) (CC)
 
 Design and Implementation infrastructure to support CCTV and ANPR system.
 
-# Dificulties
+# Difficulties
 
-- First time implemeinging fibre-copper media converters
+- First time implementing fibre-copper media converters
 - Comms room constraints
 
-# Achievments
+# Achievements
 
 [Home](../index.md)
