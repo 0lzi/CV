@@ -18,6 +18,7 @@ I am driven to constantly improve and to be a better version of myself, I enjoy 
 - Broad understanding of technologies
 - Teamwork
 - Logical thinker
+- Enjoy problem solving
 
 ## Weaknesses
 
