@@ -1,7 +1,7 @@
 # THG Carpark (2019-2020)
 
 
-![image](https://cdn.pixabay.com/photo/2021/09/07/11/35/parking-6603676_960_720.jpg)
+![image](/CV/Images/parking-6603676_960_720.jpg)
 
 Image by (pixabay.com) (CC)
 

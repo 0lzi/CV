@@ -1,4 +1,4 @@
-![0lzi logo-01](https://user-images.githubusercontent.com/4409144/153880638-0dd55f5c-30eb-4776-aaa7-3c19b17255f6.png)
+![0lzi logo-01](/CV/Images/0lzi%20logo-01.png)
 
 # Oliver Kelly
 Web: [CV](https://0lzi.github.io/CV/)
