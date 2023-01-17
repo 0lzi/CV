@@ -1,6 +1,6 @@
 # 4M & Voyager Offices (2018)
 
-<img src="./CV/Images/4m-voyager.png" alt="4M and Voyager Building">
+<img src="../CV/Images/4m-voyager.png" alt="4M and Voyager Building">
 
 
 
@@ -8,7 +8,7 @@ Image from Google Maps
 
 ## About
 
-4M & Voyager are multi-floor office blocks which THG leased from MAG, This project spanned accross multiple floors in each building to support approx 1000 employees.
+4M & Voyager are multi-floor office blocks which THG leased from MAG, This project spanned across multiple floors in each building to support approx 1000 employees.
 
 27,000 sq ft at 4M
 24,000 sq ft at Voyager
