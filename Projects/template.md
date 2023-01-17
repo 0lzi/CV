@@ -1,6 +1,6 @@
 # Project Name
 
-![image](https://imageurlhere.com)
+<img src="../Images/image.png" alt="Image">
 
 Image by (website.com) (C)/(CC)
 

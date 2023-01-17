@@ -1,8 +1,8 @@
 # ICON Studio & Office
 
+<img src="../Images/ICON-THG.jpg" alt="ICON Studio & Office campus">
 
-![image](https://www.placenorthwest.co.uk/wp-content/uploads/2019/06/THG-Icon-Manchester.jpg)
-image by Webgray from placenorthwest.co.uk
+Image by Graham 
 
 ## About
 

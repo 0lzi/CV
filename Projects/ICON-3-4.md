@@ -1,8 +1,8 @@
 # ICON 3 & 4 Warehouses
 
+<img src="../Images/icon3-icon4.jpg" alt="Icon 3 & 4 Buildings">
 
-![image](https://iconindustrial.reachtimelapse.co.uk/iconmanchester/unit3/camera2/pics/s2/sep0220i/s041420_.jpg)
-image by reachtimelapse.co.uk
+Image by reachtimelapse.co.uk
 
 
 ## About

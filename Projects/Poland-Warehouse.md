@@ -1,9 +1,8 @@
 # Poland Warehouse (2018)
 
+<img src="../Images/Flag_of_Poland.jpg" alt="Flag of Poland">
 
-![image](https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Poland.jpg)
-
-image by (Wikipedia.org) (CC)
+Image by (Wikipedia.org) (CC)
 
 ## About
 
