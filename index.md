@@ -1,4 +1,5 @@
-<img src="../Images/0lzi-logo-01" alt="Logo">
+
+![](/CV/Images/0lzi-logo-01.png)
 
 # Oliver Kelly
 Web: [CV](https://0lzi.github.io/CV/)
