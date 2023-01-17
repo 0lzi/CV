@@ -32,7 +32,7 @@ With a plan to complete LPIC-1
 
 # Experience
 
-## THG - The Hut Group ~ 6 years (2015-Present)
+## THG - The Hut Group ~ 7 years (2015-Present)
 
 ### DataCenter Engineer/IT Infrastructure project engineer (2018-Present)
 
