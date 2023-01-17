@@ -1,6 +1,6 @@
 # Media City Offices (2018)
+<img src="../Images/penson-thg-media-city-reception.jpg" alt="Media City Reception">
 
-![image](/CV/Images/penson-thg-media-city-reception.jpg)
 Image by Penson
 
 ## About

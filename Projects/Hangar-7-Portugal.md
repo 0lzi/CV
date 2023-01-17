@@ -1,7 +1,6 @@
 # Hangar 7 Portugal (2019) + Delapse (2022)
 
-
-![image](/CV/Images/portugal-1355102_960_720.jpg)
+<img src="../Images/portugal-1355102_960_720.jpg" alt="Portugal Flag">
 
 Image by (pixabay.com) (CC)
 

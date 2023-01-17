@@ -1,7 +1,6 @@
 # THG Carpark (2019-2020)
 
-
-![image](/CV/Images/parking-6603676_960_720.jpg)
+<img src="../Images/parking-6603676_960_720.jpg" alt="Parking Sign">
 
 Image by (pixabay.com) (CC)
 

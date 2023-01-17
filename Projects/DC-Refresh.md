@@ -1,6 +1,6 @@
 # DC Refresh (2019) + v2 (2021/2)
 
-![image](/CV/Images/sever-3100049_960_720.jpg)
+<img src="../Images/sever-3100049_960_720.jpg" alt="Servers">
 
 Image by [pixabay](https://pixabay.com) (CC)
 

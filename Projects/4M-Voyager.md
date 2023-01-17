@@ -2,8 +2,6 @@
 
 <img src="../Images/4m-voyager.png" alt="4M and Voyager Building">
 
-
-
 Image from Google Maps
 
 ## About

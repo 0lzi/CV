@@ -1,7 +1,7 @@
 # ICON 3 & 4 Warehouses
 
+<img src="../Images/icon3-icon4.jpg" alt="Icon 3 & 4 Buildings">
 
-![image](/CV/Images/icon3-icon4.jpg)
 Image by reachtimelapse.co.uk
 
 

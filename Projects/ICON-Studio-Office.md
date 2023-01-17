@@ -1,7 +1,7 @@
 # ICON Studio & Office
 
+<img src="../Images/ICON-THG.jpg" alt="ICON Studio & Office campus">
 
-![image](/CV/Images/ICON-THG.jpg)
 Image by Graham 
 
 ## About
