@@ -2,7 +2,7 @@
 
 ![image](https://cdn.pixabay.com/photo/2016/05/06/17/55/server-room-1376349_960_720.jpg)
 
-Image by [pixabay](pixabay.com) (CC)
+Image by [pixabay](https://pixabay.com) (CC)
 
 ## About
 
