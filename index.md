@@ -24,7 +24,7 @@ I am driven to constantly improve and to be a better version of myself, I enjoy 
 
 - Basic knowledge of cloud infrastructure
 
-With a plan to do online course on Azure, AWS or GCP
+With a plan to do online course on Azure, AWS or GCP and obtain a certification.
 
 - Moderate knowledge of Linux
 
@@ -34,7 +34,29 @@ With a plan to complete LPIC-1
 
 ## THG - The Hut Group ~ 7 years (2015-Present)
 
-### DataCenter Engineer/IT Infrastructure project engineer (2018-Present)
+### Junior Linux Engineer (2022-Present)
+
+*Role*
+
+My role as a junior Linux engineer is to support the Linux team in managing the linux services and virtual machine estate. 
+
+These includes things such as :
+
+- Managing Linux servers
+  - Patching and package managemnet
+  - OS Lifecycle
+- Gluster service
+- Monitoring platform ( Zabbix )
+- 3rd Party SFTP platform
+- Password/Secret Management service
+- Internal DNS
+- Linux Authentication service
+- Certificate and PKI services
+- Troubleshooting user issues
+
+As a junior my primary role is BAU tasks such as tickets and IM/Email queries and troubleshooting along with monitoring the Linux infrastructure and assessing alerts and resolving them.
+
+### DataCenter Engineer/IT Infrastructure project engineer (2018-2022)
 
 *Role*
 
