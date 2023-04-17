@@ -8,6 +8,8 @@ Blog: [Blog](https://blog.0lzi.tk)
 
 Email: 0lzi@pm.me 
 
+Github: [GH](https://github.com/0lzi)
+
 # About Me
 
 I’m a Father, Husband & technology enthusiast with a keen interest in renewable energy, solar and battery/storage. I also have a passion for powerlifting and strength training amongst other things including self-hosting infrastructure, blogging, bonsai, gaming and Linux and Opensource advocate.
@@ -20,16 +22,6 @@ I am driven to constantly improve and to be a better version of myself, I enjoy 
 - Teamwork
 - Logical thinker
 - Enjoy problem solving
-
-## Weaknesses
-
-- Basic knowledge of cloud infrastructure
-
-With a plan to do online course on Azure, AWS or GCP and obtain a certification.
-
-- Moderate knowledge of Linux
-
-With a plan to complete LPIC-1
 
 # Experience
 
@@ -56,6 +48,10 @@ These includes things such as :
 - Troubleshooting user issues
 
 As a junior my primary role is BAU tasks such as tickets and IM/Email queries and troubleshooting along with monitoring the Linux infrastructure and assessing alerts and resolving them.
+
+*Projects*
+- [AWX](Projects/awx.md)
+- [GitHubRunner](Projects/ghrunner.md)
 
 ### DataCenter Engineer/IT Infrastructure project engineer (2018-2022)
 
@@ -119,7 +115,7 @@ Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers
 # Qualification
 
 - [DCCA](Qualification/DCCA.pdf) - [Data Center Certified Associate](https://www.schneideruniversities.com/catalog/view/course/id/536/title/Schneider%20Electric%20University%20Data%20Center%20Certified%20Associate%20Exam)
-- [IPAF](Qualification/Oliver%20Kelly%20-%20IPAF.pdf)
+- [IPAF](Qualification/Oliver%20Kelly%20-%20IPAF.pdf) - *Expired*
 - [Health and Safety L1](Qualification/OliverKelly-H&SL1.pdf) 
 - [CITB CSCS Labourer]() 
 - [IOSH Managing safety](Qualification/Oliver%20Kelly.pdf) 
