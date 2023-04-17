@@ -3,9 +3,13 @@
 
 # Oliver Kelly
 Web: [CV](https://0lzi.github.io/CV/)
+
 Blog: [Blog](https://blog.0lzi.tk)
-Email: 0lzi@pm.me 
+
+Email: [0lzi@pm.me](mailto:0lzi@pm.me)
+
 Github: [GH](https://github.com/0lzi)
+
 CV Download: [CV](https://github.com/0lzi/CV/raw/main/CV.pdf)
 
 # About Me
