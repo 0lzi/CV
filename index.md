@@ -55,7 +55,7 @@ As a junior my primary role is BAU tasks such as tickets and IM/Email queries an
 - [AWX](Projects/awx.md)
 - [GitHubRunner](Projects/ghrunner.md)
 
-* Technologies*
+*Technologies*
 - Ansible 
 - Docker
 - Kubernetes
