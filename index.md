@@ -55,6 +55,15 @@ As a junior my primary role is BAU tasks such as tickets and IM/Email queries an
 - [AWX](Projects/awx.md)
 - [GitHubRunner](Projects/ghrunner.md)
 
+* Technologies*
+- Ansible 
+- Docker
+- Kubernetes
+- Terraform
+- VMware
+- Stackstorm
+- GoCD
+
 ### DataCenter Engineer/IT Infrastructure project engineer (2018-2022)
 
 *Role*
