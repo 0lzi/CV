@@ -10,7 +10,10 @@ Email: [0lzi@pm.me](mailto:0lzi@pm.me)
 
 GitHub: [GH](https://github.com/0lzi)
 
-CV Download: [CV](https://github.com/0lzi/CV/raw/main/CV.pdf)
+CV Download: 
+ - [CV PDF](https://github.com/0lzi/CV/raw/main/CV.pdf)
+ - [Alt DOCX](https://github.com/0lzi/CV/raw/main/Oliver%20Kelly.docx)
+
 
 # About Me
 
