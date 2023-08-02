@@ -4,17 +4,19 @@
 # Oliver Kelly
 Web: [CV](https://0lzi.github.io/CV/)
 
-Blog: [Blog](https://blog.0lzi.tk)
+Blog: [Blog](https://blog.0lzi.com)
 
 Email: [0lzi@pm.me](mailto:0lzi@pm.me)
 
-Github: [GH](https://github.com/0lzi)
+GitHub: [GH](https://github.com/0lzi)
 
 CV Download: [CV](https://github.com/0lzi/CV/raw/main/CV.pdf)
 
 # About Me
 
-I’m a Father, Husband & technology enthusiast with a keen interest in renewable energy, solar and battery/storage. I also have a passion for powerlifting and strength training amongst other things including self-hosting infrastructure, blogging, bonsai, gaming and Linux and Opensource advocate.
+I’m a father, Husband & technology enthusiast with a keen interest in automation and the DevOps methodology. I also have a passion for powerlifting and strength training amongst other things. Including self-hosting my own infrastructure, blogging, bonsai, and gaming. 
+
+I’m also a Linux and Opensource advocate and sponsor a couple of Opensource Projects/Maintainers of Opensource projects.
 
 I am driven to constantly improve and to be a better version of myself, I enjoy reading and learning new things, I always want to know how things work and have a keen attention to detail.
 
@@ -33,27 +35,27 @@ I am driven to constantly improve and to be a better version of myself, I enjoy 
 
 *Role*
 
-My role as a junior Linux engineer is to support the Linux team in managing the linux services and virtual machine estate. 
+My role as a junior Linux engineer is to support the Linux team in managing the Linux services and virtual machine estate. 
 
 These includes things such as :
 
 - Managing Linux servers
-  - Patching and package managemnet
+  - Patching and package management
   - OS Lifecycle
-- Gluster service
 - Monitoring platform ( Zabbix )
 - 3rd Party SFTP platform
-- Password/Secret Management service
-- Internal DNS
+- Password/Secret Management service ( Hashicorp Vault )
+- Internal DNS ( PowerDNS )
 - Linux Authentication service
 - Certificate and PKI services
 - Troubleshooting user issues
 
-As a junior my primary role is BAU tasks such as tickets and IM/Email queries and troubleshooting along with monitoring the Linux infrastructure and assessing alerts and resolving them.
+As a junior engineer my primary role is BAU tasks such as tickets and IM/Email queries and troubleshooting along with monitoring the Linux infrastructure and assessing alerts and resolving them.
 
 *Projects*
 - [AWX](Projects/awx.md)
-- [GitHubRunner](Projects/ghrunner.md)
+- [GitHub Runner](Projects/ghrunner.md)
+- [SFTP User Automation](Projects/sftp-automation.md)
 
 *Technologies*
 - Ansible 
@@ -63,6 +65,8 @@ As a junior my primary role is BAU tasks such as tickets and IM/Email queries an
 - VMware
 - Stackstorm
 - GoCD
+- Hashicorp Vault
+- AWX
 
 ### DataCenter Engineer/IT Infrastructure project engineer (2018-2022)
 
@@ -100,9 +104,9 @@ With the construction projects we work with RIBA stages 1-6, we work closely wit
 
 *Role*
 
-My main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a ~685,500 sq.ft semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the work flow.
+My main role as Warehouse IT engineer was to help maintain the IT infrastructure within the warehouses and to support roughly 2000 users, our team have successfully dilapidated 4 manual warehouses and deployed and kitted out a ~685,500 sq.Ft semi-automated warehouse which included a food production site. I managed the MDM platform for 500+ mobile devices and tablets, help deploy and maintain the VDI infrastructure in the warehouse as well as plan and develop improvement projects for the warehouse and operations team, these projects were designed to increase productivity, reduce cost and or help develop the workflow.
 
-During my time as a Warehouse IT engineer, I stepped into a team leader role while our manager was deployed to another department. This involved managing our team’s workload, planning and deploying for production site, as well as handling BAU requests and escalations. During this period out of hours work was vital as the warehouse went 24/7, I had to manage the on-call rota and work outside of contracted hours to ensure up keep of operations.
+During my time as a Warehouse IT engineer, I stepped into a team leader role while our manager was deployed to another department. This involved managing our team’s workload, planning, and deploying for production site, as well as handling BAU requests and escalations. During this period out of hours work was vital as the warehouse went 24/7, I had to manage the on-call rota and work outside of contracted hours to ensure upkeep of operations.
 
 
 notes - MDM device management , IT support Level 1-2, LDAP, Windows servers 2008-2012, Active Directory, VDI, DHCP scopes, team lead, hardware + software, label printers, laptop builds, new starters, PO's + Quotes, COLOS, PEAK planning, 
@@ -117,11 +121,8 @@ notes - MDM device management , IT support Level 1-2, LDAP, Windows servers 2008
 
 *Role*
 
-My role as a Counter Intelligence Agent (CIA) is to be the front line of technical support for Geek Squad within Carphone Warehouse. The main duties are to provide technical support and assistance to clients with their technology, be it mobile, tablet or desktop. Work as part of a team and to aid training of colleagues of the latest and greatest in mobile technology to provide them with the key selling points of new handsets to be able to reach our target as a store. Geek Squad pride themselves on offering a premium service and the mission isn't complete until the client is happy.
+My role as a Counterntelligence Agent (CIA) is to be the front line of technical support for Geek Squad within Carphone Warehouse. The main duties are to provide technical support and assistance to clients with their technology, be it mobile, tablet or desktop. Work as part of a team and to aid training of colleagues of the latest and greatest in mobile technology to provide them with the key selling points of new handsets to be able to reach our target as a store. Geek Squad pride themselves on offering a premium service and the mission isn't complete until the client is happy.
 Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers, set up home networks, diagnosed and repaired virus ridden computers as well as teaching clients to use and understand their devices.
-
- 
-*Responsibilities*
 
 # Qualification
 
@@ -131,4 +132,4 @@ Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers
 - [CITB CSCS Labourer]() 
 - [IOSH Managing safety](Qualification/Oliver%20Kelly.pdf) 
 - [Bsc Hons Computer Games Technology - LJMU - 2008-2011]()
-- LPIC-1 (In Progress)
+- Microsoft Azure AZ-104 (In Progress)
