@@ -41,7 +41,7 @@ My role as a junior Linux engineer is to support the Linux team in managing the 
 These includes things such as :
 
 - Managing Linux servers
-  - Patching and package management
+  - Patching and package management ( Foreman )
   - OS Lifecycle
 - Automation ( AWX - Ansible / GoCD / Github Actions  )
 - IaC ( Terraform )
