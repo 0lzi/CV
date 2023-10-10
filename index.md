@@ -17,7 +17,7 @@ CV Download:
 
 # About Me
 
-I’m a father, Husband & technology enthusiast with a keen interest in automation and the DevOps methodology. I also have a passion for powerlifting and strength training amongst other things. Including self-hosting my own infrastructure, blogging, bonsai, and gaming. 
+I’m a father, Husband & technology enthusiast with a keen interest in automation, cloud and the DevOps methodology. I also have a passion for powerlifting and strength training amongst other things. Including self-hosting my own infrastructure, blogging, bonsai, and gaming. 
 
 I’m also a Linux and Opensource advocate and sponsor a couple of Opensource Projects/Maintainers of Opensource projects.
 
@@ -132,4 +132,4 @@ Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers
 - [CITB CSCS Labourer]() 
 - [IOSH Managing safety](Qualification/Oliver%20Kelly.pdf) 
 - [Bsc Hons Computer Games Technology - LJMU - 2008-2011]()
-- [Microsoft Azure AZ-104]() (In Progress)
+- [Microsoft Azure AZ-104](Qualification/Certifications%20-%20oliverkelly-2230%20_%20Microsoft%20Learn.pdf) (Oct 2023)
