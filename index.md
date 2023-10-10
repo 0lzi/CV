@@ -43,7 +43,7 @@ These includes things such as :
 - Managing Linux servers
   - Patching and package management
   - OS Lifecycle
-- Automation ( AWX - Ansible )
+- Automation ( AWX - Ansible / GoCD / Github Actions  )
 - IaC ( Terraform )
 - Monitoring platform ( Zabbix )
 - 3rd Party SFTP platform
