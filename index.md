@@ -43,6 +43,8 @@ These includes things such as :
 - Managing Linux servers
   - Patching and package management
   - OS Lifecycle
+- Automation ( AWX - Ansible )
+- IaC ( Terraform )
 - Monitoring platform ( Zabbix )
 - 3rd Party SFTP platform
 - Password/Secret Management service ( Hashicorp Vault )
@@ -67,7 +69,8 @@ As a junior engineer my primary role is BAU tasks such as tickets and IM/Email q
 - Stackstorm
 - GoCD
 - Hashicorp Vault
-- AWX
+- Hashicorp Consul
+
 
 ### DataCenter Engineer/IT Infrastructure project engineer (2018-2022)
 
@@ -132,4 +135,4 @@ Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers
 - [CITB CSCS Labourer]() 
 - [IOSH Managing safety](Qualification/Oliver%20Kelly.pdf) 
 - [Bsc Hons Computer Games Technology - LJMU - 2008-2011]()
-- [Microsoft Azure AZ-104](Qualification/Certifications%20-%20oliverkelly-2230%20_%20Microsoft%20Learn.pdf) (Oct 2023)
+- [Microsoft Certified: Azure Administrator Associate](Qualification/Certifications%20-%20oliverkelly-2230%20_%20Microsoft%20Learn.pdf) (Oct 2023)
