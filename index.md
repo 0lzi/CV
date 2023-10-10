@@ -50,7 +50,7 @@ These includes things such as :
 - Password/Secret Management service ( Hashicorp Vault )
 - Internal DNS ( PowerDNS )
 - Linux Authentication service
-- Certificate and PKI services
+- Certificate and PKI services ( CFSSL )
 - Troubleshooting user issues
 
 As a junior engineer my primary role is BAU tasks such as tickets and IM/Email queries and troubleshooting along with monitoring the Linux infrastructure and assessing alerts and resolving them.
