@@ -122,7 +122,7 @@ Technologies
 - COLOS Label Server
 - Peak Planning
 
-## CPW - Carphone Warehouse (2021-2015)
+## CPW - Carphone Warehouse (2012-2015)
 
 My role as a Counterntelligence Agent (CIA) is to be the front line of technical support for Geek Squad within Carphone Warehouse. The main duties are to provide technical support and assistance to clients with their technology, be it mobile, tablet or desktop. Work as part of a team and to aid training of colleagues of the latest and greatest in mobile technology to provide them with the key selling points of new handsets to be able to reach our target as a store. Geek Squad pride themselves on offering a premium service and the mission isn't complete until the client is happy.
 Whilst working as a CIA I have repaired and rebuilt laptop and desktop computers, set up home networks, diagnosed and repaired virus ridden computers as well as teaching clients to use and understand their devices.
